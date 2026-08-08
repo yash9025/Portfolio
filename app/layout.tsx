@@ -10,7 +10,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yash Agrawal — Full Stack Developer",
+  title: "Yash Agrawal @Software Engineer",
   description:
     "Interactive desktop OS portfolio of Yash Agrawal, Full Stack Developer at PDEU (CGPA 9.54). Built MediConnect, QueueForge & QuickAssist. LeetCode Top 6.5%, ICPC Rank 1311/36K+.",
   keywords: [
@@ -27,14 +27,14 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Yash Agrawal", url: "mailto:agrawal6353@gmail.com" }],
   openGraph: {
-    title: "Yash Agrawal — Full Stack Developer",
+    title: "Yash Agrawal @Software Engineer",
     description:
       "Interactive desktop OS portfolio — draggable windows, neubrutalist design. React · Node.js · TypeScript · AI.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Yash Agrawal — Full Stack Developer",
+    title: "Yash Agrawal @Software Engineer",
     description:
       "Interactive desktop OS portfolio with draggable windows and neubrutalist design.",
   },

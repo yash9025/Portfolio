@@ -45,8 +45,8 @@ const CONTACTS = [
     iconType: "lucide" as const,
     icon: ExternalLink,
     label: "Resume",
-    value: "Yash_Agrawal_Resume.pdf",
-    href: "/Yash_Agrawal_Resume.pdf",
+    value: "View Resume (Google Drive)",
+    href: "https://drive.google.com/file/d/1RjfcoUkrxRKtQ3e1ZjiOpbWoCFnbIna7/view?usp=sharing",
   },
 ];
 

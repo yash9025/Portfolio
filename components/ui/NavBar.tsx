@@ -110,7 +110,7 @@ export default function NavBar() {
 
         {/* Hire me button */}
         <a
-          href="/Yash_Agrawal_Resume.pdf"
+          href="https://drive.google.com/file/d/1RjfcoUkrxRKtQ3e1ZjiOpbWoCFnbIna7/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           id="nav-resume"

@@ -427,7 +427,7 @@ export default function OpeningHero() {
               Explore Work
             </a>
             <a
-              href="/Yash_Agrawal_Resume.pdf"
+              href="https://drive.google.com/file/d/1RjfcoUkrxRKtQ3e1ZjiOpbWoCFnbIna7/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               id="opening-cta-resume"

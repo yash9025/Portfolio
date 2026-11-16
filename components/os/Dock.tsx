@@ -83,7 +83,7 @@ const DOCK_ITEMS = [
     iconType: "lucide" as const,
     icon: FileText,
     label: "Resume",
-    href: "/Yash_Agrawal_Resume.pdf",
+    href: "https://drive.google.com/file/d/1RjfcoUkrxRKtQ3e1ZjiOpbWoCFnbIna7/view?usp=sharing",
     action: undefined,
   },
   {
